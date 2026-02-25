@@ -1,5 +1,5 @@
 # HiDimClustering
-**To cluster hi dimensional vectors**
+**To cluster high dimensional vectors**
 
 Program: hidim_14.py
 
