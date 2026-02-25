@@ -1,7 +1,8 @@
 # HiDimClustering
 **To cluster high dimensional vectors**
 
-Program: hidim_14.py
+Python Code: hidim_14.py   
+Jupyter Notebook: hidim_14n1.ipynb  
 
 Documentation File: hidim_14.pyREADME.pdf    
 -with updated algorithm description   
