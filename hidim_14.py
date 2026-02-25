@@ -1,4 +1,4 @@
-# DEF FU7CTIONS FOR HIDIM
+# DEF FUNCTIONS FOR HIDIM
 # hidim_14.py
 # starting to add some calculation pieces
 # FOR THIS PROGRAM USE DATA5.TXT and the smaller DATA6.txt
