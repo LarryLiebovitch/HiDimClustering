@@ -3,6 +3,7 @@
 
 Python Code: hidim_14.py   
 Jupyter Notebook: hidim_14n1.ipynb  
+THE MOST RECENT VERSION IS: hidim_17OUTPUT.py
 
 Documentation File: hidim_14.pyREADME.pdf    
 -with updated algorithm description   
